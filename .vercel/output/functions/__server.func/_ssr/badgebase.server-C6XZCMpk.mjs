@@ -1,0 +1,233 @@
+//#region node_modules/.nitro/vite/services/ssr/assets/badgebase.server-C6XZCMpk.js
+var badge_fallback_default = /*#__PURE__*/ JSON.parse("[{\"id\":\"26248253\",\"name\":\"Harley Mayhem\",\"href\":\"/b/26248253-harley-mayhem/\",\"url\":\"https://badgebase.de/b/26248253-harley-mayhem/\",\"image\":\"https://static-cdn.jtvnw.net/badges/v1/1d235db6-09cc-458f-9805-be2efc178e54/3\",\"status\":\"active\",\"free\":false,\"how\":\"sub\",\"tags\":[\"paid\"],\"collectors\":2117,\"start\":\"2026-09-01T09:00:00+02:00\",\"end\":\"2026-09-20T08:59:00+02:00\",\"description\":\"This badge was earned by subscribing or gifting a sub to a LEGO® Batman™: Legacy of the Dark Knight streamer!\",\"howText\":\"Open the badge campaign: https://www.twitch.tv/directory/category/lego-batman-legacy-of-the-dark-knight Subscribe or gift a subscription in a participating channel while the campaign is running. The badge is added to your Twitch account and appears in your chat badge settings.\"},{\"id\":\"28448382\",\"name\":\"Blue Creeper Boss\",\"href\":\"/b/28448382-blue-creeper-boss/\",\"url\":\"https://badgebase.de/b/28448382-blue-creeper-boss/\",\"image\":\"https://static-cdn.jtvnw.net/badges/v1/e349e84d-1d91-4086-afda-e0c946717878/3\",\"status\":\"active\",\"free\":false,\"how\":\"sub\",\"tags\":[\"paid\"],\"collectors\":665,\"start\":\"2026-09-17T20:00:00+02:00\",\"end\":\"2026-09-22T08:58:00+02:00\",\"description\":\"This badge was earned by subscribing to a streamer in the Minecraft category during TGS 2026!\",\"howText\":\"Open the badge campaign: https://www.twitch.tv/directory/category/minecraft Subscribe or gift a subscription in a participating channel while the campaign is running. The badge is added to your Twitch account and appears in your chat badge settings.\"},{\"id\":\"23817711\",\"name\":\"Resonance Minotaur\",\"href\":\"/b/23817711-resonance-minotaur/\",\"url\":\"https://badgebase.de/b/23817711-resonance-minotaur/\",\"image\":\"https://static-cdn.jtvnw.net/badges/v1/63cf6329-f34c-449e-8f70-fafa1eb1de9e/3\",\"status\":\"active\",\"free\":true,\"how\":\"watch\",\"tags\":[\"free\",\"games\"],\"collectors\":6427,\"start\":\"2026-08-26T18:00:00+02:00\",\"end\":\"2026-09-23T17:59:00+02:00\",\"description\":\"This badge was earned by watching Resonance: A Plague Tale Legacy for 60 min\",\"howText\":\"Open the badge campaign: https://www.twitch.tv/directory/category/resonance-a-plague-tale-legacy?filter=drops Watch a participating stream for the required time while the campaign is running. The badge is added to your Twitch account and appears in your chat badge settings.\"},{\"id\":\"25315108\",\"name\":\"Diablo\",\"href\":\"/b/25315108-diablo/\",\"url\":\"https://badgebase.de/b/25315108-diablo/\",\"image\":\"https://static-cdn.jtvnw.net/badges/v1/12e66b34-5748-4eb0-8cf1-63d01e925b4f/3\",\"status\":\"active\",\"free\":false,\"how\":\"sub\",\"tags\":[\"paid\"],\"collectors\":1314,\"start\":\"2026-09-12T22:18:00+02:00\",\"end\":\"2026-09-26T18:59:00+02:00\",\"description\":\"This badge was earned by subscribing or gifting a sub to a Diablo streamer during BlizzCon 2026!\",\"howText\":\"Open the badge campaign: https://www.twitch.tv/directory/category/diablo-iv Subscribe or gift a subscription in a participating channel while the campaign is running. The badge is added to your Twitch account and appears in your chat badge settings.\"},{\"id\":\"28070089\",\"name\":\"Joker Mayhem\",\"href\":\"/b/28070089-joker-mayhem/\",\"url\":\"https://badgebase.de/b/28070089-joker-mayhem/\",\"image\":\"https://static-cdn.jtvnw.net/badges/v1/7973c062-7a4f-41de-9a20-77d4b2edc56a/3\",\"status\":\"active\",\"free\":false,\"how\":\"sub\",\"tags\":[\"paid\"],\"collectors\":1692,\"start\":\"2026-09-12T09:00:00+02:00\",\"end\":\"2026-09-28T08:59:00+02:00\",\"description\":\"This badge was earned by subscribing or gifting a sub to a LEGO® Batman™: Legacy of the Dark Knight streamer!\",\"howText\":\"Open the badge campaign: https://www.twitch.tv/directory/category/lego-batman-legacy-of-the-dark-knight Subscribe or gift a subscription in a participating channel while the campaign is running. The badge is added to your Twitch account and appears in your chat badge settings.\"},{\"id\":\"28264846\",\"name\":\"Marvel's Wolverine\",\"href\":\"/b/28264846-marvels-wolverine/\",\"url\":\"https://badgebase.de/b/28264846-marvels-wolverine/\",\"image\":\"https://static-cdn.jtvnw.net/badges/v1/55090800-82e4-4d31-8b3c-f9feb5e25557/3\",\"status\":\"active\",\"free\":false,\"how\":\"sub\",\"tags\":[\"paid\"],\"collectors\":1349,\"start\":\"2026-09-14T16:00:00+02:00\",\"end\":\"2026-09-28T15:59:00+02:00\",\"description\":\"This badge was earned by subscribing or gifting a sub to a streamer in the Marvel's Wolverine category during the game launch.\",\"howText\":\"Open the badge campaign: https://www.twitch.tv/directory/category/marvel-s-wolverine Subscribe or gift a subscription in a participating channel while the campaign is running. The badge is added to your Twitch account and appears in your chat badge settings.\"},{\"id\":\"27319433\",\"name\":\"Solasta II Multiplayer\",\"href\":\"/b/27319433-solasta-2-multiplayer/\",\"url\":\"https://badgebase.de/b/27319433-solasta-2-multiplayer/\",\"image\":\"https://static-cdn.jtvnw.net/badges/v1/e8430418-13e9-4325-b2ad-85664d2a4ddd/3\",\"status\":\"active\",\"free\":true,\"how\":\"watch\",\"tags\":[\"free\"],\"collectors\":5529,\"start\":\"2026-09-08T12:30:00+02:00\",\"end\":\"2026-09-29T08:59:00+02:00\",\"description\":\"This badge was earned by watching the Solasta II category for 30 minutes!\",\"howText\":\"Open the badge campaign: https://www.twitch.tv/directory/category/solasta-ii Watch a participating stream for the required time while the campaign is running. The badge is added to your Twitch account and appears in your chat badge settings.\"},{\"id\":\"26256975\",\"name\":\"Sorcerer Rogier ELDEN RING\",\"href\":\"/b/26256975-sorcerer-rogier-elden-ring/\",\"url\":\"https://badgebase.de/b/26256975-sorcerer-rogier-elden-ring/\",\"image\":\"https://static-cdn.jtvnw.net/badges/v1/3d6ad3b0-0a0f-43ae-a969-c5215d8d5a06/3\",\"status\":\"active\",\"free\":false,\"how\":\"sub\",\"tags\":[\"paid\",\"games\"],\"collectors\":1727,\"start\":\"2026-09-01T09:00:00+02:00\",\"end\":\"2026-09-29T08:59:00+02:00\",\"description\":\"This badge was earned by subscribing or gifting a sub to a streamer in the ELDEN RING category.\",\"howText\":\"Open the badge campaign: https://www.twitch.tv/badgebase_de Subscribe or gift a subscription in a participating channel while the campaign is running. The badge is added to your Twitch account and appears in your chat badge settings.\"},{\"id\":\"26689313\",\"name\":\"nopixel V Launch\",\"href\":\"/b/26689313-nopixel-v-launch/\",\"url\":\"https://badgebase.de/b/26689313-nopixel-v-launch/\",\"image\":\"https://static-cdn.jtvnw.net/badges/v1/6a34b65f-93f6-4ebd-8f75-898bdaff79e8/3\",\"status\":\"active\",\"free\":false,\"how\":\"sub\",\"tags\":[\"paid\",\"games\"],\"collectors\":1774,\"start\":\"2026-09-08T06:00:00+02:00\",\"end\":\"2026-09-30T05:59:00+02:00\",\"description\":\"This badge was earned by subscribing to a GTAV streamer during the nopixel V Launch!\",\"howText\":\"Open the badge campaign: https://www.twitch.tv/directory/category/grand-theft-auto-v Subscribe or gift a subscription in a participating channel while the campaign is running. The badge is added to your Twitch account and appears in your chat badge settings.\"},{\"id\":\"26381167\",\"name\":\"WARDOG\",\"href\":\"/b/26381167-wardog/\",\"url\":\"https://badgebase.de/b/26381167-wardog/\",\"image\":\"https://static-cdn.jtvnw.net/badges/v1/a00140ee-7c25-4cd1-95d9-54b9603f1f80/3\",\"status\":\"active\",\"free\":true,\"how\":\"watch\",\"tags\":[\"free\",\"games\"],\"collectors\":7806,\"start\":\"2026-09-03T20:00:00+02:00\",\"end\":\"2026-09-30T19:59:00+02:00\",\"description\":\"This badge was earned by watching WARDOGS for 30 minutes\",\"howText\":\"Open the badge campaign: https://www.twitch.tv/badgebase_de Watch a participating stream for the required time while the campaign is running. The badge is added to your Twitch account and appears in your chat badge settings.\"},{\"id\":\"26381168\",\"name\":\"WARLORD\",\"href\":\"/b/26381168-warlord/\",\"url\":\"https://badgebase.de/b/26381168-warlord/\",\"image\":\"https://static-cdn.jtvnw.net/badges/v1/233322a6-0c31-43e7-acfa-f10e732e87da/3\",\"status\":\"active\",\"free\":false,\"how\":\"sub\",\"tags\":[\"paid\",\"games\"],\"collectors\":1638,\"start\":\"2026-09-03T20:00:00+02:00\",\"end\":\"2026-09-30T19:59:00+02:00\",\"description\":\"This badge was earned by subscribing or gifting a sub to a streamer in the WARDOGS category during the Beta/Early Access period\",\"howText\":\"Open the badge campaign: https://www.twitch.tv/badgebase_de Subscribe or gift a subscription in a participating channel while the campaign is running. The badge is added to your Twitch account and appears in your chat badge settings.\"},{\"id\":\"24341257\",\"name\":\"Pichu\",\"href\":\"/b/24341257-pichu/\",\"url\":\"https://badgebase.de/b/24341257-pichu/\",\"image\":\"https://static-cdn.jtvnw.net/badges/v1/20f214cf-36b0-4b42-8992-3b769bcb0461/3\",\"status\":\"active\",\"free\":true,\"how\":\"watch\",\"tags\":[\"free\",\"pokemon\"],\"collectors\":13080,\"start\":\"2026-08-24T20:44:00+02:00\",\"end\":\"2026-10-01T00:00:00+02:00\",\"description\":\"This badge was earned during the Pokémon First Partners Collection campaign.\",\"howText\":\"Open the badge campaign: https://www.twitch.tv/directory/category/just-chatting Watch a participating stream for the required time while the campaign is running. The badge is added to your Twitch account and appears in your chat badge settings.\"},{\"id\":\"24341069\",\"name\":\"Bulbasaur\",\"href\":\"/b/24341069-bulbasaur/\",\"url\":\"https://badgebase.de/b/24341069-bulbasaur/\",\"image\":\"https://static-cdn.jtvnw.net/badges/v1/68072d07-8648-4066-9694-3f9fb594eb3d/3\",\"status\":\"active\",\"free\":false,\"how\":\"sub\",\"tags\":[\"paid\",\"pokemon\"],\"collectors\":3684,\"start\":\"2026-08-24T20:44:00+02:00\",\"end\":\"2026-10-01T00:00:00+02:00\",\"description\":\"This badge was earned during the Pokémon First Partners Collection campaign.\",\"howText\":\"Open the badge campaign: https://www.twitch.tv/directory/category/just-chatting Subscribe or gift a subscription in a participating channel while the campaign is running. The badge is added to your Twitch account and appears in your chat badge settings.\"},{\"id\":\"24341327\",\"name\":\"Squirtle\",\"href\":\"/b/24341327-squirtle/\",\"url\":\"https://badgebase.de/b/24341327-squirtle/\",\"image\":\"https://static-cdn.jtvnw.net/badges/v1/6e19714e-571f-4737-bc8b-865ebfb3e2c7/3\",\"status\":\"active\",\"free\":false,\"how\":\"sub\",\"tags\":[\"paid\",\"pokemon\"],\"collectors\":3674,\"start\":\"2026-08-24T20:44:00+02:00\",\"end\":\"2026-10-01T00:00:00+02:00\",\"description\":\"This badge was earned during the Pokémon First Partners Collection campaign.\",\"howText\":\"Open the badge campaign: https://www.twitch.tv/directory/category/just-chatting Subscribe or gift a subscription in a participating channel while the campaign is running. The badge is added to your Twitch account and appears in your chat badge settings.\"},{\"id\":\"24341073\",\"name\":\"Charmander\",\"href\":\"/b/24341073-charmander/\",\"url\":\"https://badgebase.de/b/24341073-charmander/\",\"image\":\"https://static-cdn.jtvnw.net/badges/v1/afe60f97-56d1-493d-a55c-2f1cec7aca7c/3\",\"status\":\"active\",\"free\":false,\"how\":\"sub\",\"tags\":[\"paid\",\"pokemon\"],\"collectors\":3682,\"start\":\"2026-08-24T20:44:00+02:00\",\"end\":\"2026-10-01T00:00:00+02:00\",\"description\":\"This badge was earned during the Pokémon First Partners Collection campaign.\",\"howText\":\"Open the badge campaign: https://www.twitch.tv/directory/category/just-chatting Subscribe or gift a subscription in a participating channel while the campaign is running. The badge is added to your Twitch account and appears in your chat badge settings.\"},{\"id\":\"23789485\",\"name\":\"The Blood of Dawnwalker Launch\",\"href\":\"/b/23789485-the-blood-of-dawnwalker-launch/\",\"url\":\"https://badgebase.de/b/23789485-the-blood-of-dawnwalker-launch/\",\"image\":\"https://static-cdn.jtvnw.net/badges/v1/1c04ddd1-6baa-4e5c-a685-976c621d5114/3\",\"status\":\"active\",\"free\":true,\"how\":\"watch\",\"tags\":[\"free\",\"games\"],\"collectors\":6880,\"start\":\"2026-09-03T02:00:00+02:00\",\"end\":\"2026-10-01T01:58:00+02:00\",\"description\":\"This badge was earned by watching a streamer in The Blood of Dawnwalker category for 1 hour\",\"howText\":\"Open the badge campaign: https://www.twitch.tv/directory/category/dawnwalker?filter=drops Watch a participating stream for the required time while the campaign is running. The badge is added to your Twitch account and appears in your chat badge settings.\"},{\"id\":\"23789486\",\"name\":\"The Blood of Dawnwalker Supporter\",\"href\":\"/b/23789486-the-blood-of-dawnwalker-supporter/\",\"url\":\"https://badgebase.de/b/23789486-the-blood-of-dawnwalker-supporter/\",\"image\":\"https://static-cdn.jtvnw.net/badges/v1/63076299-4910-4594-a05c-60899d32c765/3\",\"status\":\"active\",\"free\":false,\"how\":\"sub\",\"tags\":[\"paid\",\"games\"],\"collectors\":1598,\"start\":\"2026-09-03T02:00:00+02:00\",\"end\":\"2026-10-01T01:58:00+02:00\",\"description\":\"This badge was earned by subscribing or gifting a sub to a streamer in The Blood of Dawnwalker category\",\"howText\":\"Open the badge campaign: https://www.twitch.tv/directory/category/dawnwalker?filter=drops Subscribe or gift a subscription in a participating channel while the campaign is running. The badge is added to your Twitch account and appears in your chat badge settings.\"},{\"id\":\"25724392\",\"name\":\"Mouseathon\",\"href\":\"/b/25724392-mouseathon/\",\"url\":\"https://badgebase.de/b/25724392-mouseathon/\",\"image\":\"https://static-cdn.jtvnw.net/badges/v1/8bce8f4e-f53a-4922-b715-35167b0fae7b/3\",\"status\":\"active\",\"free\":true,\"how\":\"watch\",\"tags\":[\"free\"],\"collectors\":6807,\"start\":\"2026-09-02T03:00:00+02:00\",\"end\":\"2026-10-01T08:59:00+02:00\",\"description\":\"This badge was earned by watching Ironmouse's 2026 Subathon!\",\"howText\":\"Open the badge campaign: https://www.twitch.tv/ironmouse Watch a participating stream for the required time while the campaign is running. The badge is added to your Twitch account and appears in your chat badge settings.\"},{\"id\":\"26795225\",\"name\":\"SUBtember 2026\",\"href\":\"/b/26795225-subtember-2026/\",\"url\":\"https://badgebase.de/b/26795225-subtember-2026/\",\"image\":\"https://static-cdn.jtvnw.net/badges/v1/6ae639f0-a06d-40a9-ad16-7b7e7c18a323/3\",\"status\":\"active\",\"free\":false,\"how\":\"sub\",\"tags\":[\"subtember\",\"paid\"],\"collectors\":6404,\"start\":\"2026-09-04T19:10:00+02:00\",\"end\":\"2026-10-02T00:00:00+02:00\",\"description\":\"Badge given to users who sub, gift, or use bits during SUBtember 2026.\",\"howText\":\"Open the badge campaign: https://www.twitch.tv/badgebase_de Subscribe or gift a subscription in a participating channel while the campaign is running. The badge is added to your Twitch account and appears in your chat badge settings.\"},{\"id\":\"27792299\",\"name\":\"RuneScape Dragonwilds Eye\",\"href\":\"/b/27792299-runescape-dragonwilds-eye/\",\"url\":\"https://badgebase.de/b/27792299-runescape-dragonwilds-eye/\",\"image\":\"https://static-cdn.jtvnw.net/badges/v1/a5b43a31-4534-4f9e-875b-b9f0d1be8f73/3\",\"status\":\"active\",\"free\":true,\"how\":\"watch\",\"tags\":[\"free\"],\"collectors\":3748,\"start\":\"2026-09-15T14:00:00+02:00\",\"end\":\"2026-10-04T18:59:00+02:00\",\"description\":\"This badge was earned by watching 30 minutes of RuneScape: Dragonwilds category\",\"howText\":\"Open the badge campaign: https://www.twitch.tv/directory/category/runescape-dragonwilds Watch a participating stream for the required time while the campaign is running. The badge is added to your Twitch account and appears in your chat badge settings.\"},{\"id\":\"20022135\",\"name\":\"TwitchCon 2026 - San Diego - BeachBall\",\"href\":\"/b/20022135-twitchcon-2026---san-diego---beachball/\",\"url\":\"https://badgebase.de/b/20022135-twitchcon-2026---san-diego---beachball/\",\"image\":\"https://static-cdn.jtvnw.net/badges/v1/b3f69c97-a9a7-4360-bb9e-485ec8db72bb/3\",\"status\":\"active\",\"free\":false,\"how\":\"ticket\",\"tags\":[\"twitchcon\",\"event\",\"paid\"],\"collectors\":164,\"start\":\"2026-07-22T18:00:00+02:00\",\"end\":\"2026-11-15T08:59:00+01:00\",\"description\":\"This badge is given to anyone who purchased a 1-day ticket to TwitchCon San Diego 2026.\",\"howText\":\"Open the badge campaign: https://reg.rainfocus.com/flow/twitch/tcsd26/landing/page/home Subscribe or gift a subscription in a participating channel while the campaign is running. The badge is added to your Twitch account and appears in your chat badge settings.\"},{\"id\":\"20022136\",\"name\":\"TwitchCon 2026 - San Diego - Taco\",\"href\":\"/b/20022136-twitchcon-2026---san-diego---taco/\",\"url\":\"https://badgebase.de/b/20022136-twitchcon-2026---san-diego---taco/\",\"image\":\"https://static-cdn.jtvnw.net/badges/v1/aea5244a-3fb5-48f9-a17c-a377760df226/3\",\"status\":\"active\",\"free\":false,\"how\":\"ticket\",\"tags\":[\"twitchcon\",\"event\",\"paid\"],\"collectors\":154,\"start\":\"2026-07-22T18:00:00+02:00\",\"end\":\"2026-11-15T08:59:00+01:00\",\"description\":\"This badge is given to anyone who purchased a 3-day ticket to TwitchCon San Diego 2026.\",\"howText\":\"Open the badge campaign: https://reg.rainfocus.com/flow/twitch/tcsd26/landing/page/home Subscribe or gift a subscription in a participating channel while the campaign is running. The badge is added to your Twitch account and appears in your chat badge settings.\"},{\"id\":\"28448383\",\"name\":\"Homo Tenta\",\"href\":\"/b/28448383-homo-tenta/\",\"url\":\"https://badgebase.de/b/28448383-homo-tenta/\",\"image\":\"https://static-cdn.jtvnw.net/badges/v1/3ec6f155-ebc7-4624-89d9-ead63122dc52/3\",\"status\":\"upcoming\",\"free\":false,\"how\":\"sub\",\"tags\":[\"paid\",\"atlus\"],\"collectors\":null,\"start\":\"2026-09-20T12:00:00+02:00\",\"end\":\"2026-09-27T12:00:00+02:00\",\"description\":\"This badge was earned by subscribing to a streamer in the Metaphor: ReFantazio category during the 2026 ATLUS celebration!\",\"howText\":\"Open the badge campaign: https://www.twitch.tv/directory/category/metaphor-refantazio Subscribe or gift a subscription in a participating channel while the campaign is running. The badge is added to your Twitch account and appears in your chat badge settings.\"},{\"id\":\"28448384\",\"name\":\"Koromaru\",\"href\":\"/b/28448384-koromaru/\",\"url\":\"https://badgebase.de/b/28448384-koromaru/\",\"image\":\"https://static-cdn.jtvnw.net/badges/v1/d08bb5f3-7638-45c6-919a-9f2eb4ef505e/3\",\"status\":\"upcoming\",\"free\":false,\"how\":\"sub\",\"tags\":[\"paid\",\"atlus\"],\"collectors\":null,\"start\":\"2026-09-20T12:00:00+02:00\",\"end\":\"2026-09-27T12:00:00+02:00\",\"description\":\"This badge was earned by subscribing to a streamer in the Persona 3 Reload category during the 2026 ATLUS celebration!\",\"howText\":\"Open the badge campaign: https://www.twitch.tv/directory/category/persona3-reload Subscribe or gift a subscription in a participating channel while the campaign is running. The badge is added to your Twitch account and appears in your chat badge settings.\"},{\"id\":\"28448385\",\"name\":\"Morgana\",\"href\":\"/b/28448385-morgana/\",\"url\":\"https://badgebase.de/b/28448385-morgana/\",\"image\":\"https://static-cdn.jtvnw.net/badges/v1/a0c09111-b247-4b40-88a2-7ef1cfc60f65/3\",\"status\":\"upcoming\",\"free\":false,\"how\":\"sub\",\"tags\":[\"paid\",\"atlus\"],\"collectors\":null,\"start\":\"2026-09-20T12:00:00+02:00\",\"end\":\"2026-09-27T12:00:00+02:00\",\"description\":\"This badge was earned by subscribing to a streamer in the Persona 5 Royal category during the 2026 ATLUS celebration!\",\"howText\":\"Open the badge campaign: https://www.twitch.tv/directory/category/persona-5-royal Subscribe or gift a subscription in a participating channel while the campaign is running. The badge is added to your Twitch account and appears in your chat badge settings.\"},{\"id\":\"28448386\",\"name\":\"Nahobiho\",\"href\":\"/b/28448386-nahobiho/\",\"url\":\"https://badgebase.de/b/28448386-nahobiho/\",\"image\":\"https://static-cdn.jtvnw.net/badges/v1/adc8a831-4884-471b-9723-aad8bf3e05b8/3\",\"status\":\"upcoming\",\"free\":false,\"how\":\"sub\",\"tags\":[\"paid\",\"atlus\"],\"collectors\":null,\"start\":\"2026-09-20T12:00:00+02:00\",\"end\":\"2026-09-27T12:00:00+02:00\",\"description\":\"This badge was earned by subscribing to a streamer in the Shin Megami Tensei V: Vengeance category during the 2026 ATLUS celebration!\",\"howText\":\"Open the badge campaign: https://www.twitch.tv/directory/category/shin-megami-tensei-v-vengeance Subscribe or gift a subscription in a participating channel while the campaign is running. The badge is added to your Twitch account and appears in your chat badge settings.\"},{\"id\":\"28448387\",\"name\":\"Teddie\",\"href\":\"/b/28448387-teddie/\",\"url\":\"https://badgebase.de/b/28448387-teddie/\",\"image\":\"https://static-cdn.jtvnw.net/badges/v1/80786dcb-bf5e-4069-ab13-32b4fa436c51/3\",\"status\":\"upcoming\",\"free\":false,\"how\":\"sub\",\"tags\":[\"paid\",\"atlus\"],\"collectors\":null,\"start\":\"2026-09-20T12:00:00+02:00\",\"end\":\"2026-09-27T12:00:00+02:00\",\"description\":\"This badge was earned by subscribing to a streamer in the Persona 4 Golden category during the 2026 ATLUS celebration!\",\"howText\":\"Open the badge campaign: https://www.twitch.tv/directory/category/persona-4-golden Subscribe or gift a subscription in a participating channel while the campaign is running. The badge is added to your Twitch account and appears in your chat badge settings.\"},{\"id\":\"27951299\",\"name\":\"WSCI 2026\",\"href\":\"/b/27951299-wsci-2026/\",\"url\":\"https://badgebase.de/b/27951299-wsci-2026/\",\"image\":\"https://static-cdn.jtvnw.net/badges/v1/e61d79be-7d9d-4de2-8571-41f00bf2081a/3\",\"status\":\"upcoming\",\"free\":false,\"how\":\"sub\",\"tags\":[\"paid\"],\"collectors\":null,\"start\":\"2026-09-20T09:00:00+02:00\",\"end\":\"2026-10-03T08:59:00+02:00\",\"description\":\"This badge was earned by supporting the 2026 World Star Challengers Invitational!\",\"howText\":\"Open the badge campaign: https://www.twitch.tv/directory/category/league-of-legends?filter=drops Subscribe or gift a subscription in a participating channel while the campaign is running. The badge is added to your Twitch account and appears in your chat badge settings.\"},{\"id\":\"27940100\",\"name\":\"Chains\",\"href\":\"/b/27940100-chains/\",\"url\":\"https://badgebase.de/b/27940100-chains/\",\"image\":\"https://static-cdn.jtvnw.net/badges/v1/909fa1c7-8f4c-41c4-9910-ee936f7236d7/3\",\"status\":\"upcoming\",\"free\":true,\"how\":\"watch\",\"tags\":[\"free\"],\"collectors\":1,\"start\":\"2026-09-24T14:00:00+02:00\",\"end\":\"2026-10-10T14:00:00+02:00\",\"description\":\"This badge was earned by watching a streamer in the PAYDAY 3 category for 30 minutes\",\"howText\":\"Open the badge campaign: https://www.twitch.tv/directory/category/payday-3 Watch a participating stream for the required time while the campaign is running. The badge is added to your Twitch account and appears in your chat badge settings.\"},{\"id\":\"27940117\",\"name\":\"Dallas\",\"href\":\"/b/27940117-dallas/\",\"url\":\"https://badgebase.de/b/27940117-dallas/\",\"image\":\"https://static-cdn.jtvnw.net/badges/v1/a5ba44a9-2ccd-4b69-b5b8-9e28f1c887e7/3\",\"status\":\"upcoming\",\"free\":false,\"how\":\"sub\",\"tags\":[\"paid\"],\"collectors\":null,\"start\":\"2026-09-24T14:00:00+02:00\",\"end\":\"2026-10-10T14:00:00+02:00\",\"description\":\"This badge was earned by subscribing or gifting a sub to a streamer in the PAYDAY 3 category\",\"howText\":\"Open the badge campaign: https://www.twitch.tv/directory/category/payday-3 Subscribe or gift a subscription in a participating channel while the campaign is running. The badge is added to your Twitch account and appears in your chat badge settings.\"},{\"id\":\"27940211\",\"name\":\"Hoxton\",\"href\":\"/b/27940211-hoxton/\",\"url\":\"https://badgebase.de/b/27940211-hoxton/\",\"image\":\"https://static-cdn.jtvnw.net/badges/v1/bce13ab6-e9ae-4d9a-bf52-8ea7ba3ce8c4/3\",\"status\":\"upcoming\",\"free\":true,\"how\":\"watch\",\"tags\":[\"free\"],\"collectors\":1,\"start\":\"2026-09-24T14:00:00+02:00\",\"end\":\"2026-10-10T14:00:00+02:00\",\"description\":\"This badge was earned by watching a streamer in the PAYDAY 3 category for 60 minutes\",\"howText\":\"Open the badge campaign: https://www.twitch.tv/directory/category/payday-3 Watch a participating stream for the required time while the campaign is running. The badge is added to your Twitch account and appears in your chat badge settings.\"},{\"id\":\"27940496\",\"name\":\"Wolf\",\"href\":\"/b/27940496-wolf/\",\"url\":\"https://badgebase.de/b/27940496-wolf/\",\"image\":\"https://static-cdn.jtvnw.net/badges/v1/714081b8-aded-46d7-a6c3-14b2d79f19be/3\",\"status\":\"upcoming\",\"free\":true,\"how\":\"watch\",\"tags\":[\"free\"],\"collectors\":1,\"start\":\"2026-09-24T14:00:00+02:00\",\"end\":\"2026-10-10T14:00:00+02:00\",\"description\":\"This badge was earned by watching a streamer in the PAYDAY 3 category for 90 minutes\",\"howText\":\"Open the badge campaign: https://www.twitch.tv/directory/category/payday-3 Watch a participating stream for the required time while the campaign is running. The badge is added to your Twitch account and appears in your chat badge settings.\"},{\"id\":\"25306639\",\"name\":\"DRON-E\",\"href\":\"/b/25306639-dron-e/\",\"url\":\"https://badgebase.de/b/25306639-dron-e/\",\"image\":\"https://static-cdn.jtvnw.net/badges/v1/70e9e169-1fbf-4279-b23c-a714ccb0c9ef/3\",\"status\":\"upcoming\",\"free\":false,\"how\":\"sub\",\"tags\":[\"paid\"],\"collectors\":null,\"start\":\"2026-09-23T09:00:00+02:00\",\"end\":\"2026-10-13T09:00:00+02:00\",\"description\":\"This badge was earned by subscribing or gifting a sub to a streamer in the Rainbow Six Siege category during Wasteland Circuit.\",\"howText\":\"Open the badge campaign: https://www.twitch.tv/directory/category/tom-clancys-rainbow-six-siege Subscribe or gift a subscription in a participating channel while the campaign is running. The badge is added to your Twitch account and appears in your chat badge settings.\"},{\"id\":\"10148719\",\"name\":\"Final Fantasy XIV Fan Festival 2026 JP - Alpha Chat\",\"href\":\"/b/10148719-final-fantasy-xiv-fan-festival-2026-jp---alpha-chat/\",\"url\":\"https://badgebase.de/b/10148719-final-fantasy-xiv-fan-festival-2026-jp---alpha-chat/\",\"image\":\"https://static-cdn.jtvnw.net/badges/v1/8e38cacd-4028-4a70-8286-4b14f8d66209/3\",\"status\":\"upcoming\",\"free\":true,\"how\":\"watch\",\"tags\":[\"free\",\"games\"],\"collectors\":2,\"start\":\"2026-10-30T00:00:00+02:00\",\"end\":\"2026-11-01T00:00:00+01:00\",\"description\":\"This badge was earned by watching a creator in the Final Fantasy 14 category for 60 minutes during the Fan Fest 2026 - JP\",\"howText\":\"Open the badge campaign: https://www.twitch.tv/finalfantasyxiv Watch a participating stream for the required time while the campaign is running. The badge is added to your Twitch account and appears in your chat badge settings.\"},{\"id\":\"10148720\",\"name\":\"Final Fantasy XIV Fan Festival 2026 JP - Quest Complete Chat\",\"href\":\"/b/10148720-final-fantasy-xiv-fan-festival-2026-jp---quest-complete-chat/\",\"url\":\"https://badgebase.de/b/10148720-final-fantasy-xiv-fan-festival-2026-jp---quest-complete-chat/\",\"image\":\"https://static-cdn.jtvnw.net/badges/v1/5496ec38-8559-4135-ac65-e0bcbe595349/3\",\"status\":\"upcoming\",\"free\":true,\"how\":\"watch\",\"tags\":[\"free\",\"games\"],\"collectors\":2,\"start\":\"2026-10-30T00:00:00+02:00\",\"end\":\"2026-11-01T00:00:00+01:00\",\"description\":\"This badge was earned by watching the Fan Fest 2026 for 60 minutes on /finalfantasyxiv\",\"howText\":\"Open the badge campaign: https://www.twitch.tv/finalfantasyxiv Watch a participating stream for the required time while the campaign is running. The badge is added to your Twitch account and appears in your chat badge settings.\"},{\"id\":\"28448381\",\"name\":\"Ultramarine\",\"href\":\"/b/28448381-ultramarine/\",\"url\":\"https://badgebase.de/b/28448381-ultramarine/\",\"image\":\"https://static-cdn.jtvnw.net/badges/v1/12cb6b16-063b-4fcf-b312-c5c8f01e49ac/3\",\"status\":\"upcoming\",\"free\":false,\"how\":\"sub\",\"tags\":[\"paid\"],\"collectors\":null,\"start\":null,\"end\":null,\"description\":\"This badge was earned by subscribing or gifting a sub to a streamer in the Space Marine 2 category during the anniversary campaign!\",\"howText\":\"Open the badge campaign: https://www.twitch.tv/directory/category/space-marines Subscribe or gift a subscription in a participating channel while the campaign is running. The badge is added to your Twitch account and appears in your chat badge settings.\"}]");
+var BASE = "https://badgebase.de";
+var UA = "TwitchBadgesLiveTracker/1.0 (+stream overlay)";
+var CACHE_MS = 48e4;
+var MONTHS = {
+	Jan: 1,
+	Feb: 2,
+	Mar: 3,
+	Apr: 4,
+	May: 5,
+	Jun: 6,
+	Jul: 7,
+	Aug: 8,
+	Sep: 9,
+	Oct: 10,
+	Nov: 11,
+	Dec: 12
+};
+var fallback = badge_fallback_default;
+var cache = null;
+async function fetchHtml(path) {
+	const res = await fetch(`${BASE}${path}`, {
+		headers: {
+			"user-agent": UA,
+			accept: "text/html"
+		},
+		signal: AbortSignal.timeout(18e3)
+	});
+	if (!res.ok) throw new Error(`${path} ${res.status}`);
+	return res.text();
+}
+function decode(s) {
+	return s.replace(/&/g, "&").replace(/</g, "<").replace(/>/g, ">").replace(/"/g, "\"").replace(/&#039;/g, "'").replace(/'/g, "'").replace(/&#(\d+);/g, (_, n) => String.fromCharCode(Number(n)));
+}
+function strip(s) {
+	return decode(s.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim());
+}
+function attr(block, name) {
+	const m = block.match(new RegExp(`${name}="([^"]*)"`));
+	return m ? decode(m[1]) : null;
+}
+function parseStamp(raw, year) {
+	const m = raw.trim().match(/^([A-Za-z]+)\s+(\d{1,2}),\s+(\d{1,2}):(\d{2})$/);
+	if (!m) return null;
+	const mo = MONTHS[m[1]];
+	if (!mo) return null;
+	const day = Number(m[2]);
+	const hour = Number(m[3]);
+	const min = Number(m[4]);
+	const off = mo >= 3 && mo <= 10 ? "+02:00" : "+01:00";
+	return `${year}-${String(mo).padStart(2, "0")}-${String(day).padStart(2, "0")}T${String(hour).padStart(2, "0")}:${String(min).padStart(2, "0")}:00${off}`;
+}
+function parseTip(tip) {
+	if (!tip || /TBA/i.test(tip)) return {
+		start: null,
+		end: null
+	};
+	const year = (/* @__PURE__ */ new Date()).getFullYear();
+	const parts = tip.split("→").map((p) => p.trim());
+	const start = parts[0] ? parseStamp(parts[0], year) : null;
+	let endYear = year;
+	const m1 = parts[0]?.match(/^([A-Za-z]+)/);
+	const m2 = parts[1]?.match(/^([A-Za-z]+)/);
+	if (m1 && m2 && MONTHS[m1[1]] && MONTHS[m2[1]] && MONTHS[m1[1]] > MONTHS[m2[1]]) endYear = year + 1;
+	return {
+		start,
+		end: parts[1] ? parseStamp(parts[1], endYear) : null
+	};
+}
+function inferHow(tags, free) {
+	if (tags.includes("twitchcon") || tags.includes("ticket")) return "ticket";
+	if (!free) return "sub";
+	return "watch";
+}
+function parseCards(html, fallbackStatus) {
+	const blocks = html.match(/<a[^>]*data-badge-id="[^"]+"[\s\S]*?<\/a>/g) ?? [];
+	const out = [];
+	for (const block of blocks) {
+		const id = attr(block, "data-badge-id");
+		const href = attr(block, "href");
+		const img = block.match(/<img[^>]+src="([^"]+)"/);
+		const title = block.match(/<h[23][^>]*>([\s\S]*?)<\/h[23]>/);
+		if (!id || !href || !img || !title) continue;
+		const tags = (attr(block, "data-tags") ?? "").split(",").map((t) => t.trim()).filter(Boolean);
+		const countRaw = attr(block, "data-count");
+		const collectors = countRaw ? Number(countRaw) : null;
+		const status = attr(block, "data-status") || fallbackStatus;
+		out.push({
+			id,
+			status,
+			tags,
+			collectors: Number.isFinite(collectors) ? collectors : null,
+			href,
+			image: img[1],
+			name: strip(title[1])
+		});
+	}
+	return out;
+}
+function parseTimeline(html) {
+	const blocks = html.match(/<a href="\/b\/[^"]+" class="tl-row"[\s\S]*?<\/a>/g) ?? [];
+	const out = [];
+	for (const block of blocks) {
+		const id = block.match(/id="tl-row-(\d+)"/)?.[1];
+		const href = attr(block, "href");
+		const img = block.match(/src="([^"]+)"/)?.[1];
+		const name = block.match(/class="tl-title">([\s\S]*?)<\/span>/);
+		const label = block.match(/class="tl-bar-label">([\s\S]*?)<\/span>/);
+		const tip = attr(block, "data-tip");
+		if (!id || !href || !img || !name) continue;
+		const { start, end } = parseTip(tip);
+		out.push({
+			id,
+			href,
+			image: img,
+			name: strip(name[1]),
+			label: label ? strip(label[1]) : "",
+			start,
+			end
+		});
+	}
+	return out;
+}
+async function fetchDetails(href) {
+	const html = await fetchHtml(href);
+	const p = html.match(/<p class="text-slate-400[^"]*"[^>]*>([\s\S]*?)<\/p>/);
+	const description = p ? strip(p[1]) : "";
+	let howText = "";
+	const blocks = html.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g) ?? [];
+	for (const block of blocks) {
+		const raw = block.replace(/^<script[^>]*>/, "").replace(/<\/script>$/, "");
+		try {
+			const data = JSON.parse(raw);
+			if (data["@type"] === "HowTo" && Array.isArray(data.step)) {
+				howText = data.step.map((s) => s.text ?? "").filter(Boolean).join(" ");
+				break;
+			}
+		} catch {}
+	}
+	return {
+		description,
+		howText
+	};
+}
+function mergeBadge(card, row, extra) {
+	const tags = card.tags;
+	const free = !tags.includes("paid");
+	const prev = fallback.find((b) => b.id === card.id);
+	return {
+		id: card.id,
+		name: card.name,
+		href: card.href,
+		url: `${BASE}${card.href}`,
+		image: card.image,
+		status: card.status,
+		free,
+		how: inferHow(tags, free),
+		tags,
+		collectors: card.collectors && card.collectors > 0 ? card.collectors : prev?.collectors ?? null,
+		start: row?.start ?? prev?.start ?? null,
+		end: row?.end ?? prev?.end ?? null,
+		description: extra?.description || prev?.description || "",
+		howText: extra?.howText || prev?.howText || ""
+	};
+}
+async function scrapeLive() {
+	const [activeHtml, upcomingHtml, timelineHtml] = await Promise.all([
+		fetchHtml("/active/"),
+		fetchHtml("/upcoming/"),
+		fetchHtml("/timeline/")
+	]);
+	const active = parseCards(activeHtml, "active");
+	const upcoming = parseCards(upcomingHtml, "upcoming");
+	const timeline = parseTimeline(timelineHtml);
+	const rows = new Map(timeline.map((r) => [r.id, r]));
+	const cards = [...active.map((c) => ({
+		...c,
+		status: "active"
+	})), ...upcoming.map((c) => ({
+		...c,
+		status: "upcoming"
+	}))];
+	const missing = cards.filter((c) => {
+		return !fallback.find((b) => b.id === c.id)?.description;
+	});
+	const details = /* @__PURE__ */ new Map();
+	const queue = missing.slice(0, 8);
+	await Promise.all(queue.map(async (c) => {
+		try {
+			details.set(c.href, await fetchDetails(c.href));
+		} catch {}
+	}));
+	const badges = cards.map((c) => mergeBadge(c, rows.get(c.id), details.get(c.href)));
+	badges.sort((a, b) => {
+		if (a.status !== b.status) return a.status === "active" ? -1 : 1;
+		const ae = a.end ?? "9999";
+		const be = b.end ?? "9999";
+		return ae.localeCompare(be);
+	});
+	return badges;
+}
+async function loadFeed() {
+	if (cache && Date.now() - cache.at < CACHE_MS) return cache.feed;
+	try {
+		const badges = await scrapeLive();
+		if (!badges.length) throw new Error("empty scrape");
+		const feed = {
+			fetchedAt: (/* @__PURE__ */ new Date()).toISOString(),
+			source: "live",
+			badges
+		};
+		cache = {
+			at: Date.now(),
+			feed
+		};
+		return feed;
+	} catch (err) {
+		const feed = {
+			fetchedAt: (/* @__PURE__ */ new Date()).toISOString(),
+			source: "fallback",
+			badges: fallback
+		};
+		cache = {
+			at: Date.now() - CACHE_MS + 6e4,
+			feed
+		};
+		console.error("[badgebase] scrape failed, using snapshot", err);
+		return feed;
+	}
+}
+//#endregion
+export { loadFeed };

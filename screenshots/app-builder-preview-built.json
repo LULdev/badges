@@ -1,0 +1,41 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "TwitchBadges Live Tracker",
+      "hasCanvas": false,
+      "bodyTextLen": 2445,
+      "bodyTextHash": "932895d4a1fe4510affe89d85f71dea089c0939b0ff6fb42f420beff667bbac0",
+      "bodyTextPrefix": "17:08:34 FR., 18. SEPTEMBER 2026 TwitchBadges LIVE BADGE-TRACKER",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "TwitchBadges Live Tracker",
+      "hasCanvas": false,
+      "bodyTextLen": 1846,
+      "bodyTextHash": "ff817a84a9a38d911c08f74179d0d5e953d76945d9320b94e6b2bd70d2bbba24",
+      "bodyTextPrefix": "17:08:36 TwitchBadges LIVE BADGE-TRACKER 1 ENDET BALD 22 AKTIV 1",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: body text replaced (similar length, page start changed)",
+    "mobile: body text replaced (similar length, page start changed)"
+  ]
+}
